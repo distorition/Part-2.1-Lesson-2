@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Part_2._1_Lesson_2._5
+build_property.ProjectDir = D:\visual Project\КУРСЫ GEKK BRAINS\Patr 2 Lesson 2.1\Part 2.1 Lesson 2.5\
