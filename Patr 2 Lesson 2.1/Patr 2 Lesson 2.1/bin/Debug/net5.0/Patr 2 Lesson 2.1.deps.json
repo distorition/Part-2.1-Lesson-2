@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Patr 2 Lesson 2.1/1.0.0": {
+        "runtime": {
+          "Patr 2 Lesson 2.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patr 2 Lesson 2.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
